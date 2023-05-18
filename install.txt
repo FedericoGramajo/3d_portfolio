@@ -1,0 +1,8 @@
+install npm: 	npm create vite@latest ./ -- --template react
+
+install tailwincss: 	npm install -D tailwindcss
+			npx tailwindcss init
+
+
+
+install dependencias: npm install  @react-three/fiber @react-three/drei math react-parallax-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
